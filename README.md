@@ -1,14 +1,22 @@
 # Computer Vision Learning Journey 🚀
 
-Welcome to my Computer Vision learning repository! This project serves as a collection of my hands-on practice, coding exercises, and projects as I explore Computer Vision and Image Processing.
+Welcome to my repository! This project records my progress as I learn Computer Vision and Image Processing with Python.
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## 📚 Topics Covered
+
+- [x] **Basics & PIL:** Image I/O, Resizing, Cropping, Rotating, and Grayscale conversion.
+- [ ] **OpenCV Basics:** Image filtering, Color spaces, Thresholding, Edge detection.
+- [ ] **Advanced Vision:** Feature extraction, Contour detection, and Object tracking.
+
+---
+
+## 🛠️ Tech Stack
 
 * **Language:** Python 3
-* **Libraries:** Pillow (PIL), JupyterLab / Jupyter Notebook
-* **Environment:** Anaconda / Local Environment
+* **Libraries:** Pillow (PIL), OpenCV, NumPy
+* **Tools:** JupyterLab / Jupyter Notebook
 
 ---
 
